@@ -1,0 +1,11 @@
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.csprojAssemblyReference.cache
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.csproj.CoreCompileInputs.cache
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.AssemblyInfoInputs.cache
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.AssemblyInfo.cs
+/Users/warrenmckeown/git/cSharpRestClient/bin/Debug/netcoreapp2.1/cSharpRestClient.deps.json
+/Users/warrenmckeown/git/cSharpRestClient/bin/Debug/netcoreapp2.1/cSharpRestClient.runtimeconfig.json
+/Users/warrenmckeown/git/cSharpRestClient/bin/Debug/netcoreapp2.1/cSharpRestClient.runtimeconfig.dev.json
+/Users/warrenmckeown/git/cSharpRestClient/bin/Debug/netcoreapp2.1/cSharpRestClient.dll
+/Users/warrenmckeown/git/cSharpRestClient/bin/Debug/netcoreapp2.1/cSharpRestClient.pdb
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.dll
+/Users/warrenmckeown/git/cSharpRestClient/obj/Debug/netcoreapp2.1/cSharpRestClient.pdb
